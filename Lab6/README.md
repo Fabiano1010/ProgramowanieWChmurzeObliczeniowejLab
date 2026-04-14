@@ -71,33 +71,41 @@ app.listen(PORT, () => {
   console.log(`Version: ${VERSION}`);
 });
 ```
-
-<img width="605" height="241" alt="obraz" src="https://github.com/user-attachments/assets/3d0460d3-8789-448f-819d-7c075299fc2f" />
 ### Generowanie kluczy
 
-<img width="605" height="215" alt="obraz" src="https://github.com/user-attachments/assets/93d5e3b1-1570-4381-9c9f-c29b8a25302e" />
+<img width="605" height="241" alt="obraz" src="https://github.com/user-attachments/assets/3d0460d3-8789-448f-819d-7c075299fc2f" />
+
 ### Wynik generacji klucza
 
-<img width="605" height="183" alt="obraz" src="https://github.com/user-attachments/assets/2d796280-59b9-4e30-b4a0-7616188b7cd0" />
+<img width="605" height="215" alt="obraz" src="https://github.com/user-attachments/assets/93d5e3b1-1570-4381-9c9f-c29b8a25302e" />
+
 ### Uruchomienie serwisu
 
-<img width="605" height="59" alt="obraz" src="https://github.com/user-attachments/assets/1109156c-5f7f-466a-bc8e-dee7e2042015" />
+<img width="605" height="183" alt="obraz" src="https://github.com/user-attachments/assets/2d796280-59b9-4e30-b4a0-7616188b7cd0" />
+
 ### Rejestracja klucza w agencie SSH
 
-<img width="605" height="37" alt="obraz" src="https://github.com/user-attachments/assets/f77b56e8-c96e-47d8-9571-459464344599" />
+<img width="605" height="59" alt="obraz" src="https://github.com/user-attachments/assets/1109156c-5f7f-466a-bc8e-dee7e2042015" />
+
 ### Wyświetlenie klucza publicznego
 
-<img width="605" height="220" alt="obraz" src="https://github.com/user-attachments/assets/d8be0724-8436-498a-9fc5-5482c3f106e6" />
+<img width="605" height="37" alt="obraz" src="https://github.com/user-attachments/assets/f77b56e8-c96e-47d8-9571-459464344599" />
+
 ### Potwierdzenie dodania klucza
 
-<img width="598" height="42" alt="obraz" src="https://github.com/user-attachments/assets/f1f76d76-6f0f-48e6-a760-a5bf3ea912be" />
+<img width="605" height="220" alt="obraz" src="https://github.com/user-attachments/assets/d8be0724-8436-498a-9fc5-5482c3f106e6" />
+
 ### Logowanie do repozytorium
 
-<img width="605" height="178" alt="obraz" src="https://github.com/user-attachments/assets/e4c94e5f-a052-4ce8-8294-c86f8e8acfc5" />
+<img width="598" height="42" alt="obraz" src="https://github.com/user-attachments/assets/f1f76d76-6f0f-48e6-a760-a5bf3ea912be" />
+
 ### Budowa obrazu
 
-<img width="605" height="369" alt="obraz" src="https://github.com/user-attachments/assets/c0d456bb-4c66-47c0-be69-07eb274fa7ac" />
+<img width="605" height="178" alt="obraz" src="https://github.com/user-attachments/assets/e4c94e5f-a052-4ce8-8294-c86f8e8acfc5" />
+
 ### Gotowy pakiet
+
+<img width="605" height="369" alt="obraz" src="https://github.com/user-attachments/assets/c0d456bb-4c66-47c0-be69-07eb274fa7ac" />
 
 ## Linki:
 https://github.com/Fabiano1010/pawcho6/pkgs/container/pawcho6
